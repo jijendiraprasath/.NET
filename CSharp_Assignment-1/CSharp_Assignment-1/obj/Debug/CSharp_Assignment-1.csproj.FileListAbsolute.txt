@@ -1,0 +1,8 @@
+C:\Users\DELL\source\repos\CSharp_Assignment-1\CSharp_Assignment-1\bin\Debug\CSharp_Assignment-1.exe.config
+C:\Users\DELL\source\repos\CSharp_Assignment-1\CSharp_Assignment-1\bin\Debug\CSharp_Assignment-1.exe
+C:\Users\DELL\source\repos\CSharp_Assignment-1\CSharp_Assignment-1\bin\Debug\CSharp_Assignment-1.pdb
+C:\Users\DELL\source\repos\CSharp_Assignment-1\CSharp_Assignment-1\obj\Debug\CSharp_Assignment-1.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CSharp_Assignment-1\CSharp_Assignment-1\obj\Debug\CSharp_Assignment-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\CSharp_Assignment-1\CSharp_Assignment-1\obj\Debug\CSharp_Assignment-1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CSharp_Assignment-1\CSharp_Assignment-1\obj\Debug\CSharp_Assignment-1.exe
+C:\Users\DELL\source\repos\CSharp_Assignment-1\CSharp_Assignment-1\obj\Debug\CSharp_Assignment-1.pdb
