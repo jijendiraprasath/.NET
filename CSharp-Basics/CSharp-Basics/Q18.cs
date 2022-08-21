@@ -8,7 +8,7 @@ namespace CSharp_Basics
 {
     internal class Q18
     {
-        static void q18()
+        public static void q18()
         {
             Console.WriteLine("Check whether both the words are same\nEnter word 1");
             string name = Console.ReadLine();
@@ -23,10 +23,6 @@ namespace CSharp_Basics
             {
                 Console.WriteLine("\nBoth are not same");
             }
-        }
-        static void Main(string[] args)
-        {
-            q18();
         }
     }
 }

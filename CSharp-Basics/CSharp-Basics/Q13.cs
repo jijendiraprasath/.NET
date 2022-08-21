@@ -8,7 +8,7 @@ namespace CSharp_Basics
 {
     internal class Q13
     {
-        static void q13()
+        public static void q13()
         {
             int a, b, c;
             Console.WriteLine("Finding the largest of 3 numbers");
@@ -37,10 +37,6 @@ namespace CSharp_Basics
             {
                 Console.Write("{0} is the largest number", c);
             }
-        }
-        static void Main(string[] args)
-        {
-            q13();
         }
     }
 }

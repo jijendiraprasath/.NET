@@ -8,7 +8,7 @@ namespace CSharp_Basics
 {
     internal class Q14
     {
-        static void q14()
+        public static void q14()
         {
             int i = 0;
             int a = 0;
@@ -32,10 +32,6 @@ namespace CSharp_Basics
                     a = arr[i];
             }
             Console.WriteLine("Largest value is : " + a);
-        }
-        static void Main(string[] args)
-        {
-            q14();
         }
     }
 }

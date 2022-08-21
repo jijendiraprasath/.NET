@@ -8,7 +8,7 @@ namespace CSharp_Basics
 {
     internal class Q19
     {
-        static void q19()
+        public static void q19()
         {
             Console.WriteLine("\nPalindrome check");
             string x, y = "";
@@ -27,10 +27,6 @@ namespace CSharp_Basics
                 Console.WriteLine("Entered word is not a Palindrome");
             }
             Console.ReadKey();
-        }
-        static void Main(string[] args)
-        {
-            q19();
         }
     }
 }

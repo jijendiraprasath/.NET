@@ -8,7 +8,7 @@ namespace CSharp_Basics
 {
     internal class Q17
     {
-        static void q17()
+        public static void q17()
         {
             Console.WriteLine("Enter any word to print in reverse");
             string name = Console.ReadLine();
@@ -18,10 +18,6 @@ namespace CSharp_Basics
                 rname = c + rname;
             }
             Console.Write("Reverse of the word: " + rname);
-        }
-        static void Main(string[] args)
-        {
-            q17();
         }
     }
 }

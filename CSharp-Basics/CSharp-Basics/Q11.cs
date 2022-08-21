@@ -8,7 +8,7 @@ namespace CSharp_Basics
 {
     internal class Q11
     {
-        static void q11()
+        public static void q11()
         {
             int i, n;
             Console.WriteLine("Multiplication table");
@@ -18,10 +18,6 @@ namespace CSharp_Basics
             {
                 Console.WriteLine("{0} * {1} = {2} \n", n, i, n * i);
             }
-        }
-        static void Main(string[] args)
-        {
-            q11();
         }
     }
 }

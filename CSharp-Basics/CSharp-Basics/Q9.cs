@@ -8,7 +8,7 @@ namespace CSharp_Basics
 {
     internal class Q9
     {
-        static void q9()
+        public static void q9()
         {
             int a, b, c = 1;
             Console.WriteLine("Find the factorial");
@@ -18,10 +18,6 @@ namespace CSharp_Basics
                 c = c * a;
             }
             Console.WriteLine("Factorial of {0} is {1}", b, c);
-        }
-        static void Main(string[] args)
-        {
-            q9();
         }
     }
 }

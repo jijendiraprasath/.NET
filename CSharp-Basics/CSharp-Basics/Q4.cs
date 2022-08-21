@@ -8,7 +8,7 @@ namespace CSharp_Basics
 {
     internal class Q4
     {
-        static void q4()
+        public static void q4()
         {
             int a, b, i, odd = 0, even = 0;
             Console.WriteLine("\nFind Odd / Even");
@@ -22,10 +22,6 @@ namespace CSharp_Basics
             {
                 Console.WriteLine("Entered value \t{0} is an Odd number", a);
             }
-        }
-        static void Main(string[] args)
-        {
-            q4();
         }
     }
 }

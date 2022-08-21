@@ -8,7 +8,7 @@ namespace CSharp_Basics
 {
     internal class Q3
     {
-        static void q3()
+        public static void q3()
         {
             int a, b, i, odd = 0, even = 0;
             Console.WriteLine("\nDisplay all the numbers between the given two numbers.");
@@ -21,10 +21,6 @@ namespace CSharp_Basics
             {
                 Console.WriteLine(i);
             }
-        }
-        static void Main(string[] args)
-        {
-            q3();
         }
     }
 }

@@ -4,21 +4,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSharp_Basics
+namespace CsharpCollection
 {
-    internal class Q15
+    internal class Ascending
     {
-        public static void q15()
+        public static void a1()
         {
             int i = 0;
             int a = 0;
             float sum = 0;
             int[] arr = new int[10];
-            Console.WriteLine("Enter 10 subjects mark : ");
-            //int sum = arr.Sum();
+            Console.WriteLine("Enter 10 values: ");
             for (i = 0; i < arr.Length; i++)
             {
-                Console.Write("Subject[" + (i + 1) + "]: ");
+                Console.Write("Value[" + (i + 1) + "]: ");
                 arr[i] = int.Parse(Console.ReadLine());
             }
             a = arr[0];
@@ -28,29 +27,18 @@ namespace CSharp_Basics
                     a = arr[i];
                 sum += arr[i];
             }
-
-            Console.WriteLine("\nTotal Marks: " + sum);
-            Console.WriteLine("Average Mark: " + sum / arr.Length);
-            Console.WriteLine("Lowest Mark: " + a);
             for (i = 1; i < arr.Length; i++)
             {
                 if (a < arr[i])
                     a = arr[i];
             }
-            Console.WriteLine("Highest Mark: " + a);
             Array.Sort(arr);
-
-            Console.WriteLine("\nMarks in ascending order");
+            Console.WriteLine("\nValues sorted in ascending order");
             for (i = 0; i < arr.Length; i++)
             {
                 Console.Write(arr[i] + " ");
             }
-            Array.Reverse(arr);
-            Console.WriteLine("\nMarks in descending order");
-            for (i = 0; i < arr.Length; i++)
-            {
-                Console.Write(arr[i] + " ");
-            }
+            Console.ReadKey();
         }
     }
 }

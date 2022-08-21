@@ -1,0 +1,8 @@
+C:\Users\DELL\source\repos\CsharpCollection\CsharpCollection\bin\Debug\CsharpCollection.exe.config
+C:\Users\DELL\source\repos\CsharpCollection\CsharpCollection\bin\Debug\CsharpCollection.exe
+C:\Users\DELL\source\repos\CsharpCollection\CsharpCollection\bin\Debug\CsharpCollection.pdb
+C:\Users\DELL\source\repos\CsharpCollection\CsharpCollection\obj\Debug\CsharpCollection.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CsharpCollection\CsharpCollection\obj\Debug\CsharpCollection.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\CsharpCollection\CsharpCollection\obj\Debug\CsharpCollection.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CsharpCollection\CsharpCollection\obj\Debug\CsharpCollection.exe
+C:\Users\DELL\source\repos\CsharpCollection\CsharpCollection\obj\Debug\CsharpCollection.pdb

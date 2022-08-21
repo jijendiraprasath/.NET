@@ -8,7 +8,7 @@ namespace CSharp_Basics
 {
     internal class Q10
     {
-        static void q10()
+        public static void q10()
         {
             int a = 0, b = 1, c, d, i;
             Console.WriteLine("Fibonacci series\nEnter the range:");
@@ -23,10 +23,6 @@ namespace CSharp_Basics
                 //if (c == 40);
                 //break;
             }
-        }
-        static void Main(string[] args)
-        {
-            q10();
         }
     }
 }

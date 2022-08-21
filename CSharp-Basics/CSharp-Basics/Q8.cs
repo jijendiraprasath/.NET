@@ -8,7 +8,7 @@ namespace CSharp_Basics
 {
     internal class Q8
     {
-        static void q8()
+        public static void q8()
         {
             int a, b;
             Console.WriteLine("To get 0,1,4,9,16 number sequence");
@@ -18,10 +18,6 @@ namespace CSharp_Basics
             {
                 Console.WriteLine("\n{0} ", a * a);
             }
-        }
-        static void Main(string[] args)
-        {
-            q8();
         }
     }
 }

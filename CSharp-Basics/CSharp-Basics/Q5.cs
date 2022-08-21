@@ -8,7 +8,7 @@ namespace CSharp_Basics
 {
     internal class Q5
     {
-        static void q5()
+        public static void q5()
         {
             int i, n, even = 0, odd = 0;
             Console.WriteLine("Enter input to find count of odd and even: ");
@@ -33,10 +33,6 @@ namespace CSharp_Basics
             Console.WriteLine("Total even numbers: " + even);
             Console.WriteLine("Total odd numbers: " + odd);
             Console.ReadLine();
-        }
-        static void Main(string[] args)
-        {
-            q5();
         }
     }
 }

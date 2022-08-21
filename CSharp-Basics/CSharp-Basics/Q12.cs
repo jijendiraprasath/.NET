@@ -8,7 +8,7 @@ namespace CSharp_Basics
 {
     internal class Q12
     {
-        static void q12()
+        public static void q12()
         {
             int i;
             Console.WriteLine("Numbers divisible by 7 between 200 and 300");
@@ -18,10 +18,6 @@ namespace CSharp_Basics
                     Console.Write(i + " ");
             }
             Console.ReadLine();
-        }
-        static void Main(string[] args)
-        {
-            q12();
         }
     }
 }
