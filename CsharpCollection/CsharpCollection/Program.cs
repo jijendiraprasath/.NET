@@ -16,6 +16,7 @@ namespace CsharpCollection
             EmpSort.a3();
             BookStore.a4();
             Student.a5();
+            EmpRec.a6();
         }
     }
 }

@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="Ascending.cs" />
     <Compile Include="BookStore.cs" />
+    <Compile Include="EmpRec.cs" />
     <Compile Include="EmpSort.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
