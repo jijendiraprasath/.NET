@@ -1,0 +1,8 @@
+C:\Users\DELL\source\repos\CSharpParameters\CSharpParameters\bin\Debug\CSharpParameters.exe.config
+C:\Users\DELL\source\repos\CSharpParameters\CSharpParameters\bin\Debug\CSharpParameters.exe
+C:\Users\DELL\source\repos\CSharpParameters\CSharpParameters\bin\Debug\CSharpParameters.pdb
+C:\Users\DELL\source\repos\CSharpParameters\CSharpParameters\obj\Debug\CSharpParameters.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CSharpParameters\CSharpParameters\obj\Debug\CSharpParameters.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\CSharpParameters\CSharpParameters\obj\Debug\CSharpParameters.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CSharpParameters\CSharpParameters\obj\Debug\CSharpParameters.exe
+C:\Users\DELL\source\repos\CSharpParameters\CSharpParameters\obj\Debug\CSharpParameters.pdb

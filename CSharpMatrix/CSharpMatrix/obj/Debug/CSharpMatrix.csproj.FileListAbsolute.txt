@@ -1,0 +1,8 @@
+C:\Users\DELL\source\repos\CSharpMatrix\CSharpMatrix\bin\Debug\CSharpMatrix.exe.config
+C:\Users\DELL\source\repos\CSharpMatrix\CSharpMatrix\bin\Debug\CSharpMatrix.exe
+C:\Users\DELL\source\repos\CSharpMatrix\CSharpMatrix\bin\Debug\CSharpMatrix.pdb
+C:\Users\DELL\source\repos\CSharpMatrix\CSharpMatrix\obj\Debug\CSharpMatrix.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CSharpMatrix\CSharpMatrix\obj\Debug\CSharpMatrix.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\CSharpMatrix\CSharpMatrix\obj\Debug\CSharpMatrix.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CSharpMatrix\CSharpMatrix\obj\Debug\CSharpMatrix.exe
+C:\Users\DELL\source\repos\CSharpMatrix\CSharpMatrix\obj\Debug\CSharpMatrix.pdb
