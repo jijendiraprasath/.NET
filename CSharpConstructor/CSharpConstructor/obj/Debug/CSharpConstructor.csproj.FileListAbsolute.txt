@@ -1,0 +1,8 @@
+C:\Users\DELL\source\repos\CSharpConstructor\CSharpConstructor\bin\Debug\CSharpConstructor.exe.config
+C:\Users\DELL\source\repos\CSharpConstructor\CSharpConstructor\bin\Debug\CSharpConstructor.exe
+C:\Users\DELL\source\repos\CSharpConstructor\CSharpConstructor\bin\Debug\CSharpConstructor.pdb
+C:\Users\DELL\source\repos\CSharpConstructor\CSharpConstructor\obj\Debug\CSharpConstructor.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CSharpConstructor\CSharpConstructor\obj\Debug\CSharpConstructor.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\CSharpConstructor\CSharpConstructor\obj\Debug\CSharpConstructor.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CSharpConstructor\CSharpConstructor\obj\Debug\CSharpConstructor.exe
+C:\Users\DELL\source\repos\CSharpConstructor\CSharpConstructor\obj\Debug\CSharpConstructor.pdb
