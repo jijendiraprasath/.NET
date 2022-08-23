@@ -1,0 +1,8 @@
+C:\Users\DELL\source\repos\CSharpString\CSharpString\bin\Debug\CSharpString.exe.config
+C:\Users\DELL\source\repos\CSharpString\CSharpString\bin\Debug\CSharpString.exe
+C:\Users\DELL\source\repos\CSharpString\CSharpString\bin\Debug\CSharpString.pdb
+C:\Users\DELL\source\repos\CSharpString\CSharpString\obj\Debug\CSharpString.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CSharpString\CSharpString\obj\Debug\CSharpString.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\CSharpString\CSharpString\obj\Debug\CSharpString.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CSharpString\CSharpString\obj\Debug\CSharpString.exe
+C:\Users\DELL\source\repos\CSharpString\CSharpString\obj\Debug\CSharpString.pdb
