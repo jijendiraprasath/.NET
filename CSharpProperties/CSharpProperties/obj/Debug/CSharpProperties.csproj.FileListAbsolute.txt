@@ -1,0 +1,8 @@
+C:\Users\DELL\source\repos\CSharpProperties\CSharpProperties\bin\Debug\CSharpProperties.exe.config
+C:\Users\DELL\source\repos\CSharpProperties\CSharpProperties\bin\Debug\CSharpProperties.exe
+C:\Users\DELL\source\repos\CSharpProperties\CSharpProperties\bin\Debug\CSharpProperties.pdb
+C:\Users\DELL\source\repos\CSharpProperties\CSharpProperties\obj\Debug\CSharpProperties.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CSharpProperties\CSharpProperties\obj\Debug\CSharpProperties.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\CSharpProperties\CSharpProperties\obj\Debug\CSharpProperties.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CSharpProperties\CSharpProperties\obj\Debug\CSharpProperties.exe
+C:\Users\DELL\source\repos\CSharpProperties\CSharpProperties\obj\Debug\CSharpProperties.pdb
