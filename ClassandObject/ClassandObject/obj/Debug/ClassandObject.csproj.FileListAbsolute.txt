@@ -1,0 +1,8 @@
+C:\Users\DELL\source\repos\ClassandObject\ClassandObject\bin\Debug\ClassandObject.exe.config
+C:\Users\DELL\source\repos\ClassandObject\ClassandObject\bin\Debug\ClassandObject.exe
+C:\Users\DELL\source\repos\ClassandObject\ClassandObject\bin\Debug\ClassandObject.pdb
+C:\Users\DELL\source\repos\ClassandObject\ClassandObject\obj\Debug\ClassandObject.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ClassandObject\ClassandObject\obj\Debug\ClassandObject.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\ClassandObject\ClassandObject\obj\Debug\ClassandObject.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ClassandObject\ClassandObject\obj\Debug\ClassandObject.exe
+C:\Users\DELL\source\repos\ClassandObject\ClassandObject\obj\Debug\ClassandObject.pdb
