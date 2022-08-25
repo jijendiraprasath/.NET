@@ -1,0 +1,8 @@
+C:\Users\DELL\source\repos\CSharpInterface\CSharpInterface\bin\Debug\CSharpInterface.exe.config
+C:\Users\DELL\source\repos\CSharpInterface\CSharpInterface\bin\Debug\CSharpInterface.exe
+C:\Users\DELL\source\repos\CSharpInterface\CSharpInterface\bin\Debug\CSharpInterface.pdb
+C:\Users\DELL\source\repos\CSharpInterface\CSharpInterface\obj\Debug\CSharpInterface.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CSharpInterface\CSharpInterface\obj\Debug\CSharpInterface.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\CSharpInterface\CSharpInterface\obj\Debug\CSharpInterface.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CSharpInterface\CSharpInterface\obj\Debug\CSharpInterface.exe
+C:\Users\DELL\source\repos\CSharpInterface\CSharpInterface\obj\Debug\CSharpInterface.pdb
