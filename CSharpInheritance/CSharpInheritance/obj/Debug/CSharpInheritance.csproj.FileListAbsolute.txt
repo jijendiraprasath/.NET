@@ -1,0 +1,8 @@
+C:\Users\DELL\source\repos\CSharpInheritance\CSharpInheritance\bin\Debug\CSharpInheritance.exe.config
+C:\Users\DELL\source\repos\CSharpInheritance\CSharpInheritance\bin\Debug\CSharpInheritance.exe
+C:\Users\DELL\source\repos\CSharpInheritance\CSharpInheritance\bin\Debug\CSharpInheritance.pdb
+C:\Users\DELL\source\repos\CSharpInheritance\CSharpInheritance\obj\Debug\CSharpInheritance.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CSharpInheritance\CSharpInheritance\obj\Debug\CSharpInheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\CSharpInheritance\CSharpInheritance\obj\Debug\CSharpInheritance.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CSharpInheritance\CSharpInheritance\obj\Debug\CSharpInheritance.exe
+C:\Users\DELL\source\repos\CSharpInheritance\CSharpInheritance\obj\Debug\CSharpInheritance.pdb
