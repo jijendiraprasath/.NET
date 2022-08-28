@@ -1,0 +1,8 @@
+C:\Users\DELL\source\repos\CSharpDelegates\CSharpDelegates\bin\Debug\CSharpDelegates.exe.config
+C:\Users\DELL\source\repos\CSharpDelegates\CSharpDelegates\bin\Debug\CSharpDelegates.exe
+C:\Users\DELL\source\repos\CSharpDelegates\CSharpDelegates\bin\Debug\CSharpDelegates.pdb
+C:\Users\DELL\source\repos\CSharpDelegates\CSharpDelegates\obj\Debug\CSharpDelegates.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CSharpDelegates\CSharpDelegates\obj\Debug\CSharpDelegates.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\CSharpDelegates\CSharpDelegates\obj\Debug\CSharpDelegates.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CSharpDelegates\CSharpDelegates\obj\Debug\CSharpDelegates.exe
+C:\Users\DELL\source\repos\CSharpDelegates\CSharpDelegates\obj\Debug\CSharpDelegates.pdb
