@@ -1,0 +1,86 @@
+assingment 2
+1 a  
+select Project.project_name, Works_on.project_no
+from Project
+inner join Works_on  
+on Project.project_no = Works_on.project_no;
+b 
+SELECT *
+FROM table1
+NATURAL JOIN table2;
+c 
+select Project.*,Works_on.*       
+from Project, Works_on;       
+
+SELECT students.name_st, marks.mark
+FROM students, marks
+WHERE students.cod_st = marks.cod_st;
+
+2 
+select emp_no , Job
+from project 
+inner join Works_on 
+on project_name ='Gemini';
+3
+select empfna, empIna
+from Employee
+join Department on Employee.Dept = Department.Dept
+where Department.Dept = (select Dept from Department where Deptname ='acco');
+4
+select enter_date
+from Works_on 
+join Department 
+on Dept = 'd1'
+where Job = 'Clerk';
+5
+  select project_name
+from Project
+inner join Works_on  
+on Project.project_no = Works_on.project_no
+group by Project.project_name
+having count(*) >2;
+
+6
+select empfna , empIna 
+from Employee , Works_on
+join Project
+on Project.project_name = 'Mercury'
+where Works_on.Job = 'manager';
+7
+select empfna, empIna 
+from Employee a , Works_on b
+where a.empno= b.empno;
+8
+select empno
+from Employee
+where Dept = (select Dept from Department where Dept = 'd3');
+9
+select empno 
+from Employee
+right outer join Department
+on Deptname = 'Mar';
+
+select empno 
+from Employee, Department
+where Deptname = (select Deptname from Department where Deptname='mar');
+
+
+
+1
+insert into Employee
+    values(1111, 'julia', 'Long', null);
+2
+select * into emp_d1 from Employee;
+3
+update Works_on set Job = 'Clerk' 
+where Job = 'manager' and  project_no = 'p1'
+4
+update Project set Budget = null;
+5
+update Project set Budget = Budget*1.1
+(select emp_no,Job
+from Works_on 
+where Job = 'manager' and emp_no= 10102);
+6
+update Works_on set enter_date = '12.12.1998'
+where project_no = 'p1' and Deptname = 'sales';

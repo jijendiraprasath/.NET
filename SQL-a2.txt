@@ -1,0 +1,71 @@
+sql queries 
+rename the column
+sp_RENAME 'tablename.old column name ', 'new column name' , 'COLUMN';
+
+1) create table costumers ( Customerid char(5) not null,CompanyName varchar(40) not null,contactName char(30) null,Address varchar(60) null,City char(15) null,Phone char(24) null,Fax char(24) null);
+2) alter table Orders add Shipregion int null;
+3) alter table Orders alter column Shipregion char(8) null; update tablename set newcol1 = cast(oldcol as int);
+4) alter table Orders drop column Shipregion;
+5) insert into Orders (Orderid, Customerid, Orderdate, Shippeddate, Freight, Shipname, Shipaddres, Quantity)
+values (10, 'ord01', getdate(), getdate(), 100.0, 'Windstar', 'Ocean',1);
+6) alter table Orders add constraint df_Orders_Orderdate
+default GETDATE() fro Orderdate;
+7)  sp_rename 'Customers.City' , 'Town';
+8) create table Department(Dept char(5),Deptname varchar(20),Location varchar(20));
+    insert into Department
+    values('d1', 'rese', 'dallas');
+    create table Employee(emp int not null,emp fna varchar(20),emp Ina varchar(20),dept char(5));
+    insert into Employee
+    values(25348, 'Matthew', 'Smith', 'd3');
+create table Project (project_no char(5) ,project_name varchar(40), Budget int);
+ insert into Project
+values('p1', 'Apollo', 120000);
+create table Works_on (emp_no int not null,project_no char(5),Job varchar(20),enter_date date);
+insert into Works_on
+values(10102, 'p1', 'Analyst', '1997.10.1');
+  
+
+1 select * from Works_on 
+2 select emp_no
+from Works_on 
+where job='clerk';
+3 select emp_no
+from Works_on 
+where project_no = 'p2';
+
+ select emp_no
+from Works_on
+where emp_no < 10000;
+4 SELECT emp_no,enter_date 
+FROM Works_on 
+WHERE enter_date NOT LIKE '1998%';
+5 select emp_no 
+from Works_on 
+where Project_no ='p1'and job in('Analyst','Manager');
+6 select enter_date 
+from Works_on 
+where project_no = 'p2' and job is null;
+7 select emp_no,empIna
+from Employee
+where empIna like '%t%';
+8 select emp_no,empfna
+from Employee
+where empIna like '_[a,o]%es';
+9 select emp_no
+from Employee 
+where Dept =(select Dept from Department where location ='seattle');
+10 select emp_no,empfna
+from Employee
+where emp_no = (select emp_no from Works_on where enter_date = '1998.1.4');
+11 select * from Department order by location;
+12 select * from Employee order by emp_no desc;
+13 select Job
+from Works_on 
+group by Job
+having count(*) >2;
+14 select emp_no
+from Works_on
+where Job = 'Clerk';
+select emp_no
+from Works_on,Employee
+where Dept = 'd3';
