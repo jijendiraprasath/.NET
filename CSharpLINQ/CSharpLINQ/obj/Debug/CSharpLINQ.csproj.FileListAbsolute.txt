@@ -1,0 +1,8 @@
+C:\Users\DELL\source\repos\CSharpLINQ\CSharpLINQ\bin\Debug\CSharpLINQ.exe.config
+C:\Users\DELL\source\repos\CSharpLINQ\CSharpLINQ\bin\Debug\CSharpLINQ.exe
+C:\Users\DELL\source\repos\CSharpLINQ\CSharpLINQ\bin\Debug\CSharpLINQ.pdb
+C:\Users\DELL\source\repos\CSharpLINQ\CSharpLINQ\obj\Debug\CSharpLINQ.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CSharpLINQ\CSharpLINQ\obj\Debug\CSharpLINQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\CSharpLINQ\CSharpLINQ\obj\Debug\CSharpLINQ.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CSharpLINQ\CSharpLINQ\obj\Debug\CSharpLINQ.exe
+C:\Users\DELL\source\repos\CSharpLINQ\CSharpLINQ\obj\Debug\CSharpLINQ.pdb
